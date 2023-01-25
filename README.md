@@ -1,1 +1,1 @@
-# sandorado.github.io
+welcome to Sándor Adó's own web.
